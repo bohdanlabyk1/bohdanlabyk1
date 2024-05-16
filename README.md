@@ -4,7 +4,7 @@
 * List of posts in which you can add, view, sort, create and search for posts
 
 <p align="center">
-<img src="" width="930" title="DMV Test Prep">
+<img src="1.png" width="930" title="DMV Test Prep">
 
 <a href="https://bohdanlabyk1.github.io/create-post/" download>
 # [Create Post](https://bohdanlabyk1.github.io/create-post/)
