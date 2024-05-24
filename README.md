@@ -5,17 +5,14 @@
 <img src="1.png" width="930" title="DMV Test Prep">
 
 <a href="https://bohdanlabyk1.github.io/create-post/" download>
-# [Create Post](https://bohdanlabyk1.github.io/create-post/)
 </p>
 
-# [DroneMobile](https://apps.apple.com/us/app/dronemobile/id380549030) 
-
+# [Calkuliator](https://bohdanlabyk1.github.io/kalkuliator/)
 * Web calculator where you can perform operations such as addition, subtraction, multiplication and division
 
 <p align="center">
   
 <a href="https://bohdanlabyk1.github.io/kalkuliator/" download>
-# [calkyliator](https://bohdanlabyk1.github.io/kalkuliator/)
 </p>
 
   
